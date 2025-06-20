@@ -1,0 +1,17 @@
+Predicting Heart Disease Risk from Health Camp Data
+
+
+
+•	Domain: Healthcare, Public Health
+
+•	Objective: Developing a predictive model to find out the likelihood of heart disease in a real-world dataset of 2,250 individuals collected from 8 health camp sites across West Bengal. This project aimed to establish a baseline for early risk identification within a diverse population.
+
+
+
+•	Methodology: 
+o	Conducted comprehensive data cleaning and exploratory data analysis (EDA) to understand data distributions and identify potential issues.
+o	Assessed the predictive power of various physiological features using statistical tests (t-test, ANOVA) for model development.
+o	Implemented and evaluated linear regression models (Ordinary Least Squares - OLS, Partial Least Squares - PLS) to establish a robust predictive baseline.
+
+
+•	Key Achievement: Successfully developed a baseline predictive model achieving an adjusted R² score of 0.102 on unseen test data. This result significantly outperformed previous research on physiological data (e.g., R² of 0.05 on a Korean population as cited in Nature, 2018), demonstrating the model's effectiveness in capturing complex relationships within real-world health data.
